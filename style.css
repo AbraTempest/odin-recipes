@@ -2,3 +2,15 @@
  .center {
     text-align: center;
 }
+
+.container {
+    border: 2px red;
+}
+
+.background {
+    background-color: red;
+}
+
+.border {
+    border: 2px red;
+}
